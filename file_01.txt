@@ -1,1 +1,2 @@
 This is a new file created in Origin (that is the remote repo).
+This is new content added from the local repo.
